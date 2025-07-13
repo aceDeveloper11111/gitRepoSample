@@ -25,7 +25,9 @@ class Utils {
             print(sayHi(name))
         }
 
-
+        fun alaki2(name:String){
+            print(sayHi(name))
+        }
     }
 
 }
