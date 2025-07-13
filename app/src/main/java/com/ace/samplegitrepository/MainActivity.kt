@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
             SampleGitRepositoryTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Git Course!",
+                        name = "Git Course!!",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
