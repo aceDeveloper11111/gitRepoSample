@@ -20,6 +20,10 @@ class Utils {
         fun printHi(name:String){
             print(sayHi(name))
         }
+
+        fun alaki(name:String){
+            print(sayHi(name))
+        }
     }
 
 }
