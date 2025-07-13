@@ -19,6 +19,8 @@ class Utils {
         }
         fun printHi(name:String){
             print(sayHi(name))
+            print(sayHi(name))
+            print(sayHi(name))
         }
     }
 
