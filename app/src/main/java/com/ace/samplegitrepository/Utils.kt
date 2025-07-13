@@ -21,13 +21,11 @@ class Utils {
             print(sayHi(name))
         }
 
-        fun alaki222(name:String){
+        fun alaki3(name:String){
             print(sayHi(name))
         }
 
-        fun alaki(name:String){
-            print(sayHi(name))
-        }
+
     }
 
 }
