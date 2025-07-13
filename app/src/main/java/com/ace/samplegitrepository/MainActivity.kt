@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             SampleGitRepositoryTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Git Course",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "hi $name!",
+        text = "hi $name!!!!",
         modifier = modifier
     )
 }
