@@ -13,14 +13,6 @@ class Utils2 {
         fun printAlaki(){
             printHello("alakiiiiiiiiiiiiiiiiiiiii")
         }
-
-        fun printAlakiiiii(){
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
-        }
-
-        fun printAlakikikiki(){
-            printHello("printAlakikikiki")
-        }
     }
 
 }
