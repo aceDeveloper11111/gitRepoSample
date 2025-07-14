@@ -12,16 +12,6 @@ class Utils2 {
 
         fun printAlaki(){
             printHello("alakiiiiiiiiiiiiiiiiiiiii")
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
-            printHello("alakiiiiiiiiiiiiiiiiiiiii")
         }
     }
 
