@@ -17,6 +17,10 @@ class Utils2 {
         fun print1(){
             printHello("print1")
         }
+
+        fun print2(){
+            printHello("print1")
+        }
     }
 
 }
